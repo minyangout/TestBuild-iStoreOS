@@ -24,7 +24,7 @@
 ### 添加新功能
 - 添加 OpenClash
 - 添加 ADGuardHome
-- 添加 Mosdns
+- <del>添加 Mosdns</del>
 - 添加 Pushbot
 - 添加 qbittorrent
 - 添加 transmission
